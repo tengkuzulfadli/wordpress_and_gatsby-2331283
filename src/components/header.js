@@ -7,7 +7,7 @@ import MainNav from "./mainNav"
 const Header = ({ siteTitle }) => (
   <header
     style={{
-      background: `rebeccapurple`,
+      background: `#a13a18`,
       marginBottom: `1.45rem`,
     }}
   >
